@@ -1,0 +1,15 @@
+{
+    "employees":[
+      {"Name":"Ravi", "EmpId":"12345"}
+     ],
+
+     "Student":[
+        {"Name":"Ravi", "StudentId":"1"}
+       ],
+
+    "College":[
+        {"Name":"Oriental College", "StudentId":"2454841"}
+       ]
+
+    }
+    
